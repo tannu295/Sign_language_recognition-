@@ -1,1 +1,1 @@
-Sign recognition  model used to classify getsures based on American Sign Language .
+Sign Language Recognition based on American Sign Language used to classify static gestures.
