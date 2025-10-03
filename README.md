@@ -1,1 +1,1 @@
-Sign recognition  moddel used to classify getsures based on American Sign Language ,
+Sign recognition  model used to classify getsures based on American Sign Language .
